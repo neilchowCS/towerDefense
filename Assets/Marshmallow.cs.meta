@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ed59ef997914b438e8dadebacb535726
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - emptyTex: {fileID: 2800000, guid: 2dc9ec716795e468e8350857549e0f7f, type: 3}
+  - fullTex: {fileID: 2800000, guid: ab6a368ed268844ee8938f83fa5a71bc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
